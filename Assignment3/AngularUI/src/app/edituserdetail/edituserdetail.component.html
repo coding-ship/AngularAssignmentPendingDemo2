@@ -1,0 +1,59 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+	<div class="logo-image">
+		<img src="https://www.jcrinc.com/-/media/enterprise-imagery/logos/jcr-r-mark.png?h=152&w=532&hash=B19DACCFCF1F6ACDB0D829B425801D6F" class="img-fluid">
+  </div>
+    
+	
+	<div style="position:absolute; right:25px;"><a routerLink="/">LogOut</a></div>
+</nav>
+	
+<div class="edit">
+    <form  #Form="ngForm" (ngSubmit)="onsubmit(Form.value)">
+		<h2>Edit</h2>
+		<div style="position:absolute; right:25px;">
+			<a style="color: black;" routerLink="/home">BACK</a></div>
+			<br>
+			<div [hidden]="Form.valid">
+				<div *ngIf="status==true"
+				class="alert alert-danger">All Fields Are Required!
+				</div>
+			</div>
+		<hr>
+        <div class="form-group">
+		
+			<input type="text" class="form-control" name="fname" placeholder="Enter Your First Name" required
+			[(ngModel)]="cust.fname" #fname="ngModel">
+			
+			 <div [hidden]="fname.valid || fname.pristine"
+			class="alert alert-danger">
+		 Firstname is required
+	   </div> 
+		</div> 
+		<div class="form-group">
+				<input type="text" class="form-control" name="lname" placeholder="Enter Your Last Name" required
+				[(ngModel)]="cust.lname" #lname="ngModel" >
+				<div [hidden]="lname.valid || lname.pristine"
+				class="alert alert-danger">
+			 Lastname is required
+		   </div> 
+		</div>
+        <div class="form-group">
+			<input type="teL" class="form-control" name="phone" placeholder="Enter Your Phone No." pattern="[7-9]{1}[0-9]{9}"
+			 required 
+			[(ngModel)]="cust.phone" #phone="ngModel">
+			<div [hidden]="phone.valid || phone.pristine"
+			class="alert alert-danger">
+		 Phone no. is required
+	   </div> 
+		</div>
+		
+        <button type="submit"  class="block" >Save</button>
+		
+		<button type="reset" class="btn btn-dark" id="reset" (click)="reset()"
+		style=" background-color: darkslategray;color: wheat;" 
+		 >Reset</button>
+    
+    </form>
+</div>
+

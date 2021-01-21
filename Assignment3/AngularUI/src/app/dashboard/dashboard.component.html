@@ -1,0 +1,31 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+   
+    <div class="logo-image">
+          <img src="https://www.jcrinc.com/-/media/enterprise-imagery/logos/jcr-r-mark.png?h=152&w=532&hash=B19DACCFCF1F6ACDB0D829B425801D6F" class="img-fluid">
+    </div>
+
+
+<div style="position:absolute; right:25px;"><a routerLink="/">LogOut</a></div>
+</nav>
+
+<br>
+<table style = "position:relative;" class="center">
+<tr>
+   
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Phone No.</th>
+    <th></th>
+    <th></th>
+</tr>
+<tr *ngFor="let userlist of list">
+  
+    <td>{{userlist.fname}}</td>
+    <td>{{userlist.lname}}</td>
+    <td>{{userlist.phone}}</td>
+    &nbsp; &nbsp;
+    <td><button class="block" (click)="Edit(userlist)">Edit</button></td>
+    &nbsp; &nbsp;
+    <td><button class="block" (click)="Delete(userlist.id)">Delete</button></td>
+</tr>
+</table>

@@ -1,0 +1,21 @@
+.navbar{
+    background-color: lightgreen;
+
+}
+h1{
+    text-align: center;
+
+}
+.logout{
+    margin-left: 90%;
+}
+/* .form-control{
+    box-sizing: border-box;
+} */
+#submit{
+    align-items: center;
+    margin-left: 40%;
+}
+#register{
+    margin-left: 5%;
+}

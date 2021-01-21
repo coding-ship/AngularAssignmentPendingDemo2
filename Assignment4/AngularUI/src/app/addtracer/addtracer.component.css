@@ -1,0 +1,59 @@
+.edit {
+    position: absolute;
+    top: 50%;
+    margin-top: 5.7%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 400px;
+    height: 850px;
+    padding: 25px 40px;
+    box-sizing: border-box;
+    background: rgba(255,255,255,0.3);
+    padding-top: 80;
+}
+#box{
+   
+    position:center;
+    padding-top: 70;
+    
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+  }
+#reset {
+    margin-left: 53%;
+}
+
+
+
+
+input.ng-invalid{
+border-left: 5px solid red;
+}
+
+input.ng-valid{
+    border-left: 5px solid green;
+    }
+   
+    .logo-image{
+   
+        width: 250px;
+        height: 80px ;
+      
+       
+    }
+    
+  .block {
+   
+   
+    border: none;
+    border-radius: 5px;
+    background-color: #2563aa;
+    padding: 8px 16px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+}

@@ -1,0 +1,64 @@
+
+#signup{
+    margin-left: 35%;
+}
+#reset{
+    margin-left: 15%;
+}
+#usertype {
+    display: block;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    padding: 8px 16px;
+    color:  #4f97e9;
+    cursor: pointer;
+    text-align: center;
+}
+.back{
+    margin-left: 15px;
+}
+input.ng-invalid{
+border-left: 5px solid red;
+}
+
+input.ng-valid{
+    border-left: 5px solid green;
+    }
+#box{
+   
+    position:center;
+    padding-top: 70;
+    
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+  }
+  /* logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+} */
+.logo-image{
+   
+    width: 250px;
+    height: 70px ;
+    position: sticky;
+   
+    
+}
+.logo-image1{
+    max-width: 22%;
+    max-height: 35%;
+    
+    margin-right: 22%;
+    margin-bottom: 1%;
+   
+} 
+  

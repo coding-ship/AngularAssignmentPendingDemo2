@@ -1,0 +1,102 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light" id="nav">
+	
+	<div class = "loginbox">
+		<div class="logo-image" >
+		  <img src="https://www.jcrinc.com/-/media/enterprise-imagery/logos/jcr-r-mark.png?h=152&w=532&hash=B19DACCFCF1F6ACDB0D829B425801D6F" class="img-fluid">
+	  </div>
+	  </div>
+  
+</nav>
+
+<div class="col-sm-5 center" id="box" style="position: relative;">
+    <form  #Form="ngForm" (ngSubmit)="onsubmit(Form.value)">
+		<h2>Sign Up</h2> 
+		<div style="position:absolute; right:25px;">
+			<a style="color: black;" routerLink="/">BACK</a></div>
+			<br><br>
+			<div [hidden]="Form.valid">
+				<div *ngIf="check==true" class="alert alert-danger">
+					All Fields Are Required!
+				</div>
+			</div>
+			<div 
+			*ngIf="statusdata==false"
+			class="alert alert-danger">Welome {{cust.fname}}!<br>
+			Account Successfully Created Now you can Login.
+		  </div>
+			<!-- <div [hidden]="Form.valid "
+			class="alert alert-danger">All Fields Are Required!
+		  </div> -->
+		
+		<hr>
+        <div class="form-group">
+		
+			<input type="text" class="form-control" name="fname" placeholder="Enter Your First Name" pattern="[A-Za-z]{1,32}" required
+			[(ngModel)]="cust.fname" #fname="ngModel">
+			<div  *ngIf="fname.invalid && (fname.dirty || fname.touched)"
+            class="alert alert-danger">
+            Firstname should only contain lowercase or uppercase letters. e.g. john or John
+	    </div>
+		
+		</div>
+		<div class="form-group">
+				<input type="text" class="form-control" name="lname" placeholder="Enter Your Last Name" pattern="[A-Za-z]{1,32}" required
+				[(ngModel)]="cust.lname" #lname="ngModel" >
+				<div  *ngIf="lname.invalid && (lname.dirty || lname.touched)"
+            class="alert alert-danger">
+				<!-- <div [hidden]="lname.valid || lname.pristine"
+				class="alert alert-danger"> -->
+			 Lastname should only contain lowercase or uppercase letters. e.g. john or John
+		   </div> 
+		</div>
+        <div class="form-group">
+			<input type="teL" class="form-control" name="phone" placeholder="Enter Your Phone No." pattern="[7-9]{1}[0-9]{9}"
+			 required 
+			[(ngModel)]="cust.phone" #phone="ngModel">
+			<div [hidden]="phone.valid || phone.pristine"
+			class="alert alert-danger">
+		 Please enter a valid 10-digit Phone number(must not include spaces or special characters) 
+	   </div> 
+		</div>
+		<label>Sign Up As:</label>
+		<div class="form-group">
+			
+
+<select id="usertype" [(ngModel)]="cust.role" #role="ngModel" name="role">
+	<option value="User">User</option>
+  <option value="Admin">Admin</option>
+  
+  </select>
+		  </div>   
+		  
+		  <div class="form-group">
+			<input type="password" class="form-control" name="password" placeholder="Create Password"  
+			pattern=".{3,}"
+			 required 
+			[(ngModel)]="cust.password" #password="ngModel">
+			<div [hidden]="password.valid || password.pristine"
+			class="alert alert-danger">
+		 Password must contain at least 3 characters.
+	   </div> 
+		  </div>
+
+	   <div class="form-group">
+		<input type="email" class="form-control" name="email" placeholder="Enter Your Email Id" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
+		 required 
+		[(ngModel)]="cust.email" #email="ngModel">
+		<div [hidden]="email.valid || email.pristine"
+		class="alert alert-danger">
+	 Email ID is not a valid Email Address
+   </div> 
+		
+   </div>
+       
+		
+        <button type="submit" class="btn btn-primary " id="signup" >Sign Up</button>
+		
+		<button type="reset" class="btn btn-secondary" id="reset" (click)="Reset()" >Reset</button>
+    
+    </form>
+	
+</div>
+

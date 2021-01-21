@@ -1,0 +1,95 @@
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+/>
+ <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  
+    <div class="logo-image1">
+          <img src="https://www.jcrinc.com/-/media/enterprise-imagery/logos/jcr-r-mark.png?h=152&w=532&hash=B19DACCFCF1F6ACDB0D829B425801D6F" class="img-fluid">
+    </div>
+
+ 
+</nav> 
+<div class="body">
+  <div class = "loginbox">
+    <div class="logo-image" style="margin-left: 30%;">
+      <img src="https://www.jcrinc.com/-/media/enterprise-imagery/logos/jcr-r-mark.png?h=152&w=532&hash=B19DACCFCF1F6ACDB0D829B425801D6F" class="img-fluid">
+  </div>
+   
+    <div [hidden]="name.valid || password.valid">
+      <div
+    *ngIf="check==false" class="alert alert-danger">
+      Password is required.<br>
+      Username is required.
+    </div> 
+  </div>
+    <!-- <div [hidden]="Form.untouched || (Form.touched && Form.valid)"
+    class="alert alert-danger">All Fields Are Required! -->
+   
+    <div 
+    *ngIf="statusdata==false"
+    class="alert alert-danger">Invalid Username Or Password.
+  </div>
+  <div *ngIf="name.invalid && password.valid"
+    class="alert alert-danger">
+    Username is required.
+  
+  </div>
+  <div *ngIf="name.valid && password.invalid"
+    class="alert alert-danger">Password is required.
+  
+  </div>
+  
+    <form #Form="ngForm" (ngSubmit)="onSubmit(Form.value)" >
+      <div class="form-group">
+        <label><b>Username</b></label>
+         <i class="fa fa-user-circle" aria-hidden="true" style="margin-left: 2%;"></i><br> 
+               <input id="name" name="name" placeholder="Enter Username" class="form-control" required 
+              [(ngModel)]="users.name" #name="ngModel" (click)="update()" >
+              
+              <!-- <div  *ngIf="name.invalid && (name.dirty || name.touched)"
+              class="alert alert-danger">
+            Username is required
+          </div>  -->
+    <!-- <div [hidden]="name.valid || name.pristine"
+               class="alert alert-danger">
+            Username is required
+          </div>  -->
+      </div>
+    
+      <div class="form-group">
+        <label><b>Password</b></label>
+        <i class="fa fa-key" aria-hidden="true" style="margin-left: 2%;"></i><br>
+        <input id="password" name="password" placeholder="Enter Password" class="form-control" type="password"
+              required 
+              [(ngModel)]="users.password" #password="ngModel" (click)="update()">
+              <!-- <div  *ngIf="password.invalid && (password.dirty || password.touched)"
+              class="alert alert-danger">
+              Password is required
+          </div>  -->
+                <!-- <div [hidden]="password.valid || password.pristine"
+             class="alert alert-danger">
+          Password is required
+        </div>  -->
+      </div>
+    
+     
+      <div class="form-group">
+      <button type="submit" class="button block" style="background-color: #036e92;" >Login</button>
+      </div>
+      <br>
+     
+      <button type="button" class="btn btn-dark" 
+      style=" background-color: darkslategray;color: wheat;"
+         (click)="Signup()">Self Registration</button>
+    
+      
+      <button type="reset" class="btn btn-dark" id="reset"
+      style=" background-color: darkslategray;color: wheat;"
+       (click)="Reset()" >Reset</button>
+  
+      
+      
+    </form>
+  </div>
+  </div>

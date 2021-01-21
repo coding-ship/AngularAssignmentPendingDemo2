@@ -1,0 +1,182 @@
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.exe
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.deps.json
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.json
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.dev.json
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csprojAssemblyReference.cache
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfoInputs.cache
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfo.cs
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CoreCompileInputs.cache
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.Manifest.cache
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.xml
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\assignmentapi.styles.css
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.RazorTargetAssemblyInfo.cache
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CopyComplete
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SUBHAM\source\repos\assignmentapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.genruntimeconfig.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.exe
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.deps.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.dev.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csprojAssemblyReference.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfoInputs.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfo.cs
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CoreCompileInputs.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.Manifest.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.xml
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\assignmentapi.styles.css
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.RazorTargetAssemblyInfo.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CopyComplete
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment1\Loginapi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.genruntimeconfig.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.exe
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.deps.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.dev.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csprojAssemblyReference.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfoInputs.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfo.cs
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CoreCompileInputs.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.Manifest.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.xml
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\assignmentapi.styles.css
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.RazorTargetAssemblyInfo.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CopyComplete
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment2\api2\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.genruntimeconfig.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.exe
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.deps.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.dev.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csprojAssemblyReference.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfoInputs.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfo.cs
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CoreCompileInputs.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.Manifest.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.xml
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\assignmentapi.styles.css
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.RazorTargetAssemblyInfo.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CopyComplete
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3new\Angular2-master\api3\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.genruntimeconfig.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.exe
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.deps.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.dev.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csprojAssemblyReference.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfoInputs.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfo.cs
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CoreCompileInputs.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.Manifest.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.xml
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\assignmentapi.styles.css
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.RazorTargetAssemblyInfo.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CopyComplete
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment3\Assignment-3\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.genruntimeconfig.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.exe
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.deps.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.dev.json
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csprojAssemblyReference.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfoInputs.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfo.cs
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CoreCompileInputs.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.Manifest.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.xml
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\assignmentapi.styles.css
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.RazorTargetAssemblyInfo.cache
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CopyComplete
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SUBHAM\Desktop\Angular Assignments\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.genruntimeconfig.cache
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.exe
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.deps.json
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.json
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.runtimeconfig.dev.json
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csprojAssemblyReference.cache
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfoInputs.cache
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.AssemblyInfo.cs
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CoreCompileInputs.cache
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.Manifest.cache
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\staticwebassets\assignmentapi.StaticWebAssets.xml
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\assignmentapi.styles.css
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.RazorTargetAssemblyInfo.cache
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.csproj.CopyComplete
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.dll
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.pdb
+C:\Users\SHUBHAM\Desktop\AngularAssignment5-master\Assignment4\Assignment-4\WebApi\assignmentapi\obj\Debug\netcoreapp3.1\assignmentapi.genruntimeconfig.cache
